@@ -1,2 +1,2 @@
-# graduation_coding
-This repo is for graduation project
+# Graduation_Project
+**This repo is for graduation project**
